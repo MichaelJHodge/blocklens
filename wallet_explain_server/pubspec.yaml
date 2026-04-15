@@ -1,0 +1,14 @@
+name: wallet_explain_server
+description: Wallet Explain backend powered by Serverpod.
+publish_to: none
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  serverpod: ^2.3.0
+  http: ^1.2.1
+  dotenv: ^4.2.0
+
+dev_dependencies:
+  lints: ^3.0.0

@@ -1,0 +1,11 @@
+apiServer:
+  port: 8080
+  publicHost: api.wallet-explain.com
+  publicPort: 443
+  publicScheme: https
+
+webServer:
+  port: 8082
+  publicHost: wallet-explain.com
+  publicPort: 443
+  publicScheme: https

@@ -1,0 +1,20 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Flutter
+**/ios/Pods/
+**/ios/.symlinks/
+**/android/.gradle/
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+**/.env
+
+# macOS
+.DS_Store

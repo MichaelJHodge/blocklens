@@ -1,4 +1,4 @@
-# Wallet Explain
+# Blocklens
 
 Production-lean MVP that converts recent Ethereum wallet activity into plain-English summaries.
 
